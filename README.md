@@ -1,2 +1,2 @@
-# stripeLaravel
+# Stripe Laravel
  Stripe Laravel
